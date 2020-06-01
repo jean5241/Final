@@ -1,0 +1,54 @@
+C:\Users\asus\source\repos\appcitas\LogicaNegocio\obj\Debug\LogicaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\asus\source\repos\appcitas\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\appcitas\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\asus\source\repos\appcitas\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\asus\source\repos\appcitas\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\asus\source\repos\appcitas\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\asus\source\repos\appcitas\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+C:\Users\asus\source\repos\appcitas\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\asus\source\repos\appcitas\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+C:\Users\User\Desktop\ing.software\appcitas\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\User\Desktop\ing.software\appcitas\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\User\Desktop\ing.software\appcitas\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\User\Desktop\ing.software\appcitas\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\User\Desktop\ing.software\appcitas\LogicaNegocio\obj\Debug\LogicaNegocio.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ing.software\appcitas\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ing.software\appcitas\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+C:\Users\User\Desktop\ing.software\appcitas\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\User\Desktop\ing.software\appcitas\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+C:\Users\User\source\repos\APPSALUD\LogicaNegocio\obj\Debug\LogicaNegocio.csprojAssemblyReference.cache
+C:\Users\User\source\repos\APPSALUD\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\APPSALUD\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\User\source\repos\APPSALUD\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+C:\Users\User\source\repos\APPSALUD\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\User\source\repos\APPSALUD\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\User\source\repos\APPSALUD\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\User\source\repos\APPSALUD\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\User\source\repos\APPSALUD\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+C:\Users\asus\Documents\.ingenieria de software\appcitas\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\asus\Documents\.ingenieria de software\appcitas\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\asus\Documents\.ingenieria de software\appcitas\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\.ingenieria de software\appcitas\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+C:\Users\asus\Documents\.ingenieria de software\appcitas\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+C:\Users\asus\Documents\.ingenieria de software\appcitas\LogicaNegocio\obj\Debug\LogicaNegocio.csprojAssemblyReference.cache
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\LogicaNegocio\obj\Debug\LogicaNegocio.csprojAssemblyReference.cache
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+C:\Users\asus\Documents\.ingenieria de software\final software2\escritorio\appcitas\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\asus\Documents\.ingenieria de software\final software2\escritorio\appcitas\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\asus\Documents\.ingenieria de software\final software2\escritorio\appcitas\LogicaNegocio\bin\Debug\AccesoDatosServicios.dll
+C:\Users\asus\Documents\.ingenieria de software\final software2\escritorio\appcitas\LogicaNegocio\bin\Debug\AccesoDatosServicios.pdb
+C:\Users\asus\Documents\.ingenieria de software\final software2\escritorio\appcitas\LogicaNegocio\obj\Debug\LogicaNegocio.csprojAssemblyReference.cache
+C:\Users\asus\Documents\.ingenieria de software\final software2\escritorio\appcitas\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\.ingenieria de software\final software2\escritorio\appcitas\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+C:\Users\asus\Documents\.ingenieria de software\final software2\escritorio\appcitas\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\asus\Documents\.ingenieria de software\final software2\escritorio\appcitas\LogicaNegocio\obj\Debug\LogicaNegocio.pdb

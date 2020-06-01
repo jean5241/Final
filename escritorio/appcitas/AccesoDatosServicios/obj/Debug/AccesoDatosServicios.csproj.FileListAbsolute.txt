@@ -1,0 +1,6 @@
+C:\Users\asus\Documents\.ingenieria de software\final software2\escritorio\appcitas\AccesoDatosServicios\bin\Debug\AccesoDatosServicios.dll
+C:\Users\asus\Documents\.ingenieria de software\final software2\escritorio\appcitas\AccesoDatosServicios\bin\Debug\AccesoDatosServicios.pdb
+C:\Users\asus\Documents\.ingenieria de software\final software2\escritorio\appcitas\AccesoDatosServicios\obj\Debug\AccesoDatosServicios.csprojAssemblyReference.cache
+C:\Users\asus\Documents\.ingenieria de software\final software2\escritorio\appcitas\AccesoDatosServicios\obj\Debug\AccesoDatosServicios.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\.ingenieria de software\final software2\escritorio\appcitas\AccesoDatosServicios\obj\Debug\AccesoDatosServicios.dll
+C:\Users\asus\Documents\.ingenieria de software\final software2\escritorio\appcitas\AccesoDatosServicios\obj\Debug\AccesoDatosServicios.pdb
