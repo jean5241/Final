@@ -1,0 +1,9 @@
+C:\Users\asus\Downloads\ConsumidoresSOA\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\asus\Downloads\ConsumidoresSOA\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\asus\Downloads\ConsumidoresSOA\LogicaNegocio\bin\Debug\AccesoDatosServicio.dll
+C:\Users\asus\Downloads\ConsumidoresSOA\LogicaNegocio\bin\Debug\AccesoDatosServicio.pdb
+C:\Users\asus\Downloads\ConsumidoresSOA\LogicaNegocio\obj\Debug\LogicaNegocio.csprojAssemblyReference.cache
+C:\Users\asus\Downloads\ConsumidoresSOA\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\ConsumidoresSOA\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+C:\Users\asus\Downloads\ConsumidoresSOA\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\asus\Downloads\ConsumidoresSOA\LogicaNegocio\obj\Debug\LogicaNegocio.pdb

@@ -1,0 +1,6 @@
+C:\Users\asus\Downloads\ConsumidoresSOA\AccesoDatosServicio\bin\Debug\AccesoDatosServicio.dll
+C:\Users\asus\Downloads\ConsumidoresSOA\AccesoDatosServicio\bin\Debug\AccesoDatosServicio.pdb
+C:\Users\asus\Downloads\ConsumidoresSOA\AccesoDatosServicio\obj\Debug\AccesoDatosServicio.csprojAssemblyReference.cache
+C:\Users\asus\Downloads\ConsumidoresSOA\AccesoDatosServicio\obj\Debug\AccesoDatosServicio.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\ConsumidoresSOA\AccesoDatosServicio\obj\Debug\AccesoDatosServicio.dll
+C:\Users\asus\Downloads\ConsumidoresSOA\AccesoDatosServicio\obj\Debug\AccesoDatosServicio.pdb

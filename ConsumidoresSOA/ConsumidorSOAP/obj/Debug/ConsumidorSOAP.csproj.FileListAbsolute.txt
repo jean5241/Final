@@ -1,0 +1,9 @@
+C:\Users\nestor.velez\source\repos\ConsumidoresSOA\ConsumidorSOAP\bin\Debug\ConsumidorSOAP.exe.config
+C:\Users\nestor.velez\source\repos\ConsumidoresSOA\ConsumidorSOAP\bin\Debug\ConsumidorSOAP.exe
+C:\Users\nestor.velez\source\repos\ConsumidoresSOA\ConsumidorSOAP\bin\Debug\ConsumidorSOAP.pdb
+C:\Users\nestor.velez\source\repos\ConsumidoresSOA\ConsumidorSOAP\obj\Debug\ConsumidorSOAP.Form1.resources
+C:\Users\nestor.velez\source\repos\ConsumidoresSOA\ConsumidorSOAP\obj\Debug\ConsumidorSOAP.Properties.Resources.resources
+C:\Users\nestor.velez\source\repos\ConsumidoresSOA\ConsumidorSOAP\obj\Debug\ConsumidorSOAP.csproj.GenerateResource.cache
+C:\Users\nestor.velez\source\repos\ConsumidoresSOA\ConsumidorSOAP\obj\Debug\ConsumidorSOAP.csproj.CoreCompileInputs.cache
+C:\Users\nestor.velez\source\repos\ConsumidoresSOA\ConsumidorSOAP\obj\Debug\ConsumidorSOAP.exe
+C:\Users\nestor.velez\source\repos\ConsumidoresSOA\ConsumidorSOAP\obj\Debug\ConsumidorSOAP.pdb
