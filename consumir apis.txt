@@ -1,0 +1,78 @@
+Paciente:
+
+.get: 
+MostrarPacienteXcedula: http://localhost:51971/api/Paciente?cedula=123456
+ValidarSesionPaciente: http://localhost:51971/api/Paciente?usuario=1026163147&contrasena=Ju700
+.post:
+InsertarPaciente: tener cuidado si es o no con ? al final d ela URL o puede ser una falla
+.delete:
+EliminarPaciente: http://localhost:51971/api/Paciente?cedula=123456&nombreEps=SURA
+
+Medico:
+.get: 
+MostrarInfoMedico: http://localhost:51971/api/Medico?cedula=43165412&nombreCentro=ClinicaAntioquia
+MostrarMedicosXCentro: http://localhost:51971/api/Medico?nombreCentro=ClinicaAntioquia
+/// no existe ValidarMedico: 
+.post:
+InsertarMedico: tener cuidado si es o no con ? al final d ela URL o puede ser una falla
+.delete:
+EliminarMedico: http://localhost:51971/api/Medico?cedula=43165412&nombreCentro=ClinicaAntioquia
+
+Eps:
+.get: 
+MostrarEps: http://localhost:51971/api/Eps
+MostrarCentrosXEps: http://localhost:51971/api/Eps?nombreEps=Sura 
+.post:
+InsertarEps: 
+AsignarEpsACentro:
+.delete:
+EliminarEps: http://localhost:51971/api/Eps?nombreEps=Sura
+
+Cita:
+.get: 
+Obtenercita: http://localhost:51971/api/Cita?nombreCentro=ClinicaAntioquia
+CitaXPaciente: http://localhost:51971/api/Cita?cedula=15429219
+CancelarCita:  http://localhost:51971/api/Cita?fecha=12/04/2020&cedula=1026163147/////////////////corregir es por Id
+MostrarCitasMedico:  http://localhost:51971/api/Cita/{id}?fecha=12/04/2020&horaIn=12:00:00
+
+.post:
+ReservarCita:
+InsertarCita:
+ 
+AsignarEpsACentro:
+.delete:
+Eliminarcita:  http://localhost:51971/api/Cita/1
+
+Centro:
+
+.get:
+MostarInfoCentros:  http://localhost:51971/api/Centro
+MostarNombresCentros: http://localhost:51971/api/Centro?cedula=1026163147
+
+.post:
+InsertarCentros:
+
+.Delete:
+EliminarCentros: http://localhost:51971/api/Centro?nombres=ClinicaAntioquia&direccion=Caldas
+
+AdminCentro:
+
+.get:
+ValidarAdminCentro: api/AdminCentro?usuario={usuario}&contrasena={contrasena}
+
+.post:
+InsertarAdminCentro:
+
+.Delete:
+EliminarAdminCentro: api/AdminCentro?cedula={cedula}
+
+AdminEps:
+
+.get:
+ValidarAdminEps: api/AdminEps?usuario={usuario}&contrasena={contrasena}
+
+.post:
+InsertarAdminEps:
+
+.Delete:
+EliminarAdminEps: api/AdminEps?cedula={cedula}

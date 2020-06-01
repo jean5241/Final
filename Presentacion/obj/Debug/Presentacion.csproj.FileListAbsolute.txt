@@ -1,0 +1,310 @@
+C:\Users\asus\source\repos\appcitas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\asus\source\repos\appcitas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\asus\source\repos\appcitas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\asus\source\repos\appcitas\Presentacion\bin\Debug\LogicaNegocio.dll
+C:\Users\asus\source\repos\appcitas\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\asus\source\repos\appcitas\Presentacion\bin\Debug\LogicaNegocio.pdb
+C:\Users\asus\source\repos\appcitas\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\asus\source\repos\appcitas\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\asus\source\repos\appcitas\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\asus\source\repos\appcitas\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\asus\source\repos\appcitas\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\appcitas\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\appcitas\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\asus\source\repos\appcitas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\asus\source\repos\appcitas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\User\Desktop\ing.software\appcitas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\User\Desktop\ing.software\appcitas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\User\Desktop\ing.software\appcitas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\User\Desktop\ing.software\appcitas\Presentacion\bin\Debug\LogicaNegocio.dll
+C:\Users\User\Desktop\ing.software\appcitas\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\User\Desktop\ing.software\appcitas\Presentacion\bin\Debug\LogicaNegocio.pdb
+C:\Users\User\Desktop\ing.software\appcitas\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\User\Desktop\ing.software\appcitas\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ing.software\appcitas\Presentacion\obj\Debug\Presentacion.LOGGIN.resources
+C:\Users\User\Desktop\ing.software\appcitas\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\User\Desktop\ing.software\appcitas\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ing.software\appcitas\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ing.software\appcitas\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\User\Desktop\ing.software\appcitas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\User\Desktop\ing.software\appcitas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\User\Desktop\ing.software\appcitas\Presentacion\obj\Debug\Presentacion.CENTROMEDICO.resources
+C:\Users\User\Desktop\ing.software\appcitas\Presentacion\obj\Debug\Presentacion.PACIENTE.resources
+C:\Users\User\Desktop\ing.software\appcitas\Presentacion\obj\Debug\Presentacion.aiCENTRO.resources
+C:\Users\User\Desktop\ing.software\appcitas\Presentacion\obj\Debug\Presentacion.EPS.resources
+C:\Users\User\Desktop\ing.software\appcitas\Presentacion\obj\Debug\Presentacion.MEDICO.resources
+C:\Users\User\Desktop\ing.software\appcitas\Presentacion\obj\Debug\Presentacion.aiEPS.resources
+C:\Users\User\Desktop\ing.software\appcitas\Presentacion\obj\Debug\Presentacion.eEPS.resources
+C:\Users\User\source\repos\APPSALUD\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\User\source\repos\APPSALUD\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\User\source\repos\APPSALUD\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\User\source\repos\APPSALUD\Presentacion\bin\Debug\LogicaNegocio.dll
+C:\Users\User\source\repos\APPSALUD\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\User\source\repos\APPSALUD\Presentacion\bin\Debug\LogicaNegocio.pdb
+C:\Users\User\source\repos\APPSALUD\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\User\source\repos\APPSALUD\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\User\source\repos\APPSALUD\Presentacion\obj\Debug\Presentacion.aiEPS.resources
+C:\Users\User\source\repos\APPSALUD\Presentacion\obj\Debug\Presentacion.eEPS.resources
+C:\Users\User\source\repos\APPSALUD\Presentacion\obj\Debug\Presentacion.EPS.resources
+C:\Users\User\source\repos\APPSALUD\Presentacion\obj\Debug\Presentacion.MEDICO.resources
+C:\Users\User\source\repos\APPSALUD\Presentacion\obj\Debug\Presentacion.CENTROMEDICO.resources
+C:\Users\User\source\repos\APPSALUD\Presentacion\obj\Debug\Presentacion.LOGGIN.resources
+C:\Users\User\source\repos\APPSALUD\Presentacion\obj\Debug\Presentacion.aiCENTRO.resources
+C:\Users\User\source\repos\APPSALUD\Presentacion\obj\Debug\Presentacion.PACIENTE.resources
+C:\Users\User\source\repos\APPSALUD\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\User\source\repos\APPSALUD\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\User\source\repos\APPSALUD\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\APPSALUD\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\User\source\repos\APPSALUD\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\User\source\repos\APPSALUD\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\User\source\repos\APPSALUD\Presentacion\obj\Debug\Presentacion.aCENTRO.resources
+C:\Users\User\source\repos\APPSALUD\Presentacion\obj\Debug\Presentacion.eCENTRO.resources
+C:\Users\User\source\repos\APPSALUD\Presentacion\obj\Debug\Presentacion.aEPS.resources
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\LogicaNegocio.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\LogicaNegocio.pdb
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\obj\Debug\Presentacion.aCENTRO.resources
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\obj\Debug\Presentacion.aEPS.resources
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\obj\Debug\Presentacion.eCENTRO.resources
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\obj\Debug\Presentacion.aiEPS.resources
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\obj\Debug\Presentacion.eEPS.resources
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\obj\Debug\Presentacion.aiCENTRO.resources
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\obj\Debug\Presentacion.Inicio.resources
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\obj\Debug\Presentacion.LoginPacientes.resources
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\obj\Debug\Presentacion.LoginCentroMedico.resources
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\obj\Debug\Presentacion.LoginEps.resources
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\obj\Debug\Presentacion.Centro.resources
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\obj\Debug\Presentacion.InsertarCita.resources
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\obj\Debug\Presentacion.EliminarCita.resources
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\obj\Debug\Presentacion.Pacientes.resources
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\obj\Debug\Presentacion.ReservarCita.resources
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\obj\Debug\Presentacion.MostrarCita.resources
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\obj\Debug\Presentacion.Epss.resources
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\obj\Debug\Presentacion.EpsXCentro.resources
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\stdole.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\EnvDTE80.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\VSLangProj.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\VSLangProj80.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\VSLangProj2.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\obj\Debug\Presentacion.exe.config
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\obj\Debug\RdlCompile.cache
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\obj\Debug\RdlCompile.compiled
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\obj\Debug\Presentacion.Reporte.resources
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\obj\Debug\Presentacion.Introduccion.resources
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\obj\Debug\Presentacion.IntroduccionCentro.resources
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\obj\Debug\Presentacion.IntroduccionEps.resources
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Presentacion\obj\Debug\Presentacion.PresentacionPaciente.resources
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\LogicaNegocio.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\stdole.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\EnvDTE80.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\VSLangProj.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\VSLangProj80.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\VSLangProj2.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\LogicaNegocio.pdb
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\obj\Debug\Presentacion.exe.config
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\obj\Debug\Presentacion.aCENTRO.resources
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\obj\Debug\Presentacion.aEPS.resources
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\obj\Debug\Presentacion.Centro.resources
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\obj\Debug\Presentacion.eCENTRO.resources
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\obj\Debug\Presentacion.aiEPS.resources
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\obj\Debug\Presentacion.eEPS.resources
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\obj\Debug\Presentacion.EliminarCita.resources
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\obj\Debug\Presentacion.Epss.resources
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\obj\Debug\Presentacion.EpsXCentro.resources
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\obj\Debug\Presentacion.Introduccion.resources
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\obj\Debug\Presentacion.IntroduccionCentro.resources
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\obj\Debug\Presentacion.IntroduccionEps.resources
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\obj\Debug\Presentacion.PresentacionPaciente.resources
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\obj\Debug\Presentacion.Reporte.resources
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\obj\Debug\Presentacion.Inicio.resources
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\obj\Debug\Presentacion.InsertarCita.resources
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\obj\Debug\Presentacion.LoginCentroMedico.resources
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\obj\Debug\Presentacion.LoginEps.resources
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\obj\Debug\Presentacion.LoginPacientes.resources
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\obj\Debug\Presentacion.aiCENTRO.resources
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\obj\Debug\Presentacion.MostrarCita.resources
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\obj\Debug\Presentacion.Pacientes.resources
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\obj\Debug\Presentacion.ReservarCita.resources
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\obj\Debug\RdlCompile.cache
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\obj\Debug\RdlCompile.compiled
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\asus\Documents\.ingenieria de software\.final software\appcitas\Presentacion\obj\Debug\Presentacion.pdb

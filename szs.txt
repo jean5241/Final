@@ -1,0 +1,3 @@
+http://localhost:51971/api/Paciente?falsa=false registros
+http://localhost:51971/api/Paciente  errores
+http://localhost:51971/api/Cita   nocita

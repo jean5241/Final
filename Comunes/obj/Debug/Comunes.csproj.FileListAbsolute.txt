@@ -1,0 +1,6 @@
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Comunes\bin\Debug\Comunes.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Comunes\bin\Debug\Comunes.pdb
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Comunes\obj\Debug\Comunes.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Comunes\obj\Debug\Comunes.dll
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Comunes\obj\Debug\Comunes.pdb
+C:\Users\asus\Documents\.ingenieria de software\appcitas\Comunes\obj\Debug\Comunes.csprojAssemblyReference.cache

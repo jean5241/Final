@@ -1,0 +1,40 @@
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.deps.json
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.runtimeconfig.json
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.runtimeconfig.dev.json
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.dll
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.AssemblyInfoInputs.cache
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.AssemblyInfo.cs
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.pdb
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\AccesoDatos.dll
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocio.dll
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocio.pdb
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\AccesoDatos.pdb
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.csproj.CopyComplete
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.dll
+C:\Users\bryan\source\repos\SeguimientoSFW2\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.pdb
+C:\Users\asus\Documents\.ingenieria de software\final software2\appcitas\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.csprojAssemblyReference.cache
+C:\Users\asus\Documents\.ingenieria de software\final software2\appcitas\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\.ingenieria de software\final software2\appcitas\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\.ingenieria de software\final software2\appcitas\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.AssemblyInfo.cs
+C:\Users\asus\Documents\.ingenieria de software\final software2\appcitas\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.dll
+C:\Users\asus\Documents\.ingenieria de software\final software2\appcitas\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.pdb
+C:\Users\asus\Documents\.ingenieria de software\final software2\appcitas\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\asus\Documents\.ingenieria de software\final software2\appcitas\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\asus\Documents\.ingenieria de software\final software2\appcitas\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\asus\Documents\.ingenieria de software\final software2\appcitas\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.deps.json
+C:\Users\asus\Documents\.ingenieria de software\final software2\appcitas\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.runtimeconfig.json
+C:\Users\asus\Documents\.ingenieria de software\final software2\appcitas\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.runtimeconfig.dev.json
+C:\Users\asus\Documents\.ingenieria de software\final software2\appcitas\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.dll
+C:\Users\asus\Documents\.ingenieria de software\final software2\appcitas\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaDeNegocioTest.pdb
+C:\Users\asus\Documents\.ingenieria de software\final software2\appcitas\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\AccesoDatos.dll
+C:\Users\asus\Documents\.ingenieria de software\final software2\appcitas\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaNegocio.dll
+C:\Users\asus\Documents\.ingenieria de software\final software2\appcitas\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\LogicaNegocio.pdb
+C:\Users\asus\Documents\.ingenieria de software\final software2\appcitas\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\AccesoDatos.pdb
+C:\Users\asus\Documents\.ingenieria de software\final software2\appcitas\LogicaDeNegocioTest\obj\Debug\netcoreapp2.1\LogicaDeNegocioTest.csproj.CopyComplete
+C:\Users\asus\Documents\.ingenieria de software\final software2\appcitas\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\testhost.exe
+C:\Users\asus\Documents\.ingenieria de software\final software2\appcitas\LogicaDeNegocioTest\bin\Debug\netcoreapp2.1\testhost.dll
